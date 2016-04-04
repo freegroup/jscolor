@@ -9,14 +9,15 @@ bower install jscolor --save
 Credits to: 
 
 ```
- /**
- * jscolor, JavaScript Color Picker
+/**
+ * jscolor - JavaScript Color Picker
  *
- * @version 1.4.2
- * @license GNU Lesser General Public License, http://www.gnu.org/copyleft/lesser.html
- * @author  Jan Odvarko, http://odvarko.cz
- * @created 2008-06-15
- * @updated 2013-11-25
  * @link    http://jscolor.com
+ * @license For open source use: GPLv3
+ *          For commercial use: JSColor Commercial License
+ * @author  Jan Odvarko
+ * @version 2.0.4
+ *
+ * See usage examples at http://jscolor.com/examples/
  */
 ```
